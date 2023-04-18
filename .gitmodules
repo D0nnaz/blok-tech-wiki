@@ -1,3 +1,6 @@
 [submodule "pt-course-22-23.wiki"]
 	path = pt-course-22-23.wiki
 	url = https://github.com/cmda-bt/pt-course-22-23.wiki.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/cmda-bt/pt-course-22-23.wiki.git
